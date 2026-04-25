@@ -40,6 +40,4 @@ The Adzuna free tier caps job descriptions at 500 characters. That truncation cu
 3. Add your `ADZUNA_APP_ID` and `ADZUNA_APP_KEY` to Colab Secrets (key icon in sidebar)
 4. Run all cells top to bottom
 
-## Why I built this
 
-I was job searching and didn't want to rely on boot camp skill lists or blog posts. Treated my own job search as a research question, pulled real data, and made decisions based on what I found. The AI findings specifically changed how I'm positioning myself.
